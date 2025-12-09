@@ -18,10 +18,7 @@ It shows:
 - scikit-learn
 - Matplotlib
 
-Install all dependencies with:
-
-```bash
-pip install -r requirements.txt
+Install all dependencies with: pip install -r requirements.txt
 
 ## Conclusion and Model Comparison
 
